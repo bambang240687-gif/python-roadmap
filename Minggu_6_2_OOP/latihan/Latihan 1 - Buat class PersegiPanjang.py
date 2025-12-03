@@ -1,4 +1,8 @@
 # Latihan 1 — Buat class PersegiPanjang (pythonic)
+"""
+Attribute: panjang, lebar
+Method: luas(), keliling()
+"""
 class PersegiPanjang:
     def __init__(self, panjang, lebar):
         self.panjang = panjang
