@@ -1,0 +1,36 @@
+===============
+PYTHON CACHE
+===============
+
+pycache/
+*.py[cod]
+*$py.class
+
+===============
+VIRTUAL ENV
+===============
+
+venv/
+env/
+.venv/
+ENV/
+
+===============
+IDE / EDITOR
+===============
+
+.vscode/
+.idea/
+
+===============
+SYSTEM FILES
+===============
+
+.DS_Store
+Thumbs.db
+
+===============
+LOG FILES
+===============
+
+*.log
