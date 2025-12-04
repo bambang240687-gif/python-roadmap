@@ -1,4 +1,4 @@
-# Latihan 1 — Buat class PersegiPanjang (pythonic)
+# Latihan 1 - Buat class PersegiPanjang (pythonic)
 """
 Attribute: panjang, lebar
 Method: luas(), keliling()
@@ -19,5 +19,5 @@ lebar = float(input("Masukkan lebar persegi panjang: "))
 
 persegi_panjang = PersegiPanjang(panjang, lebar)
 
-print(f"Luas persegi panjang: {persegi_panjang.luas}")
-print(f"Keliling persegi panjang: {persegi_panjang.keliling}")
+print(f"Luas persegi panjang: {persegi_panjang.luas()}")
+print(f"Keliling persegi panjang: {persegi_panjang.keliling()}")

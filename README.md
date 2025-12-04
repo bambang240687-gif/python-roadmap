@@ -1,8 +1,6 @@
 # 🐍 Python Roadmap — Learning Journey
 
-Repositori ini berisi rangkaian latihan, catatan, dan mini-project Python yang saya kerjakan sebagai bagian dari perjalanan belajar Python dari dasar hingga tingkat menengah.
-
-Struktur repo ini mengikuti pembagian per minggu/materi sehingga mudah dipelajari ulang dan dikembangkan.
+Repositori ini berisi rangkaian latihan, catatan, dan mini-project Python yang saya kerjakan sebagai bagian dari perjalanan belajar Python dari dasar hingga tingkat menengah. Struktur repo ini mengikuti pembagian per minggu/materi sehingga mudah dipelajari ulang dan dikembangkan.
 
 ---
 
@@ -17,3 +15,9 @@ Struktur repo ini mengikuti pembagian per minggu/materi sehingga mudah dipelajar
 
 ---
 
+## 🛠 Tools yang Digunakan
+
+Python 3.x
+VSCode sebagai code editor
+Git untuk version control
+GitHub untuk repositori / cloud backup
